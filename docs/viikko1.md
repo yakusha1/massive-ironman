@@ -1,1 +1,1 @@
- 
+ Suurin osa viikosta meni idean keksimiseen ja laitestoon tutustumiseen. Suunnitelmani ensimmäinen vaihe on rakentaa robotti joka ajaa lattialla piirretty linjan pitkiin.  Aloitin robotti rungon rakentamisen. Se on ollut työlästä ja oikean muodon löytäminen on vaikeaa. Aloin tutustua lejosin kirjastoon ja valo sensoriin kutsuihin. Ensi viikoksi pitäisi saada ensimmäinen vaihe valmiiksi.
